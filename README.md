@@ -5,7 +5,9 @@
 This repository contains code for a Twitter bot that tweets daily quotes from the Latin author Ovid. The bot fetches quotes from a curated dataset, formats them, and posts them on Twitter daily. This README provides an overview of the project, its structure, and key steps for setup and usage.
 
 ## Project Structure: Main Tasks:
-* 1) Posts quotes with commentary prompted by GPT-3 Turbo that are retrieved via Llama-indexing based sentence retrieval
+* 1) 
+   * Posts quotes with commentary prompted by GPT-3 Turbo that are retrieved via Llama-indexing based sentence retrieval
+   * Additional "memorable" quotes are retrieved using Langchain. [quote_retrieval](./notebooks/quote_retrieval.ipynb)
 * 2) Replies to noteable Twitter accounts
 * 3) [RAG](https://www.promptingguide.ai/techniques/rag)-based replies to @WiseWordsofOvide
 
