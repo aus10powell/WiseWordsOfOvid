@@ -36,3 +36,6 @@ This repository contains code for a Twitter bot that tweets daily quotes from th
 
 This project is licensed under the [MIT License](LICENSE).
 
+## References
+**Authorship Attribution/Verification**
+   * [Who Wrote it and Why? Prompting Large-Language Models for Authorship Verification](https://arxiv.org/pdf/2310.08123.pdf)
