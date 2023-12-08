@@ -2,6 +2,8 @@
 
 ## Overview
 
+Account @ [WiseWordsofOvid](https://twitter.com/WiseWordsOfOvid)
+
 This repository contains code for a Twitter bot that tweets daily quotes from the Latin author Ovid. The bot fetches quotes from a curated dataset, formats them, and posts them on Twitter daily. This README provides an overview of the project, its structure, and key steps for setup and usage.
 
 ## Project Structure: Main Tasks:
@@ -14,7 +16,16 @@ This repository contains code for a Twitter bot that tweets daily quotes from th
 
 ### Directories and Files:
 
-- **data/:** Contains the dataset (`ovid_quotes.csv`) with Ovid's quotes in English and Latin.
+- **data/:** Contains the dataset (`ovid_quotes.csv`) with Ovid's quotes in English and Latin. Full books as well:
+   - Lovers Assistant
+   - Last Poems
+   - Metamorphoses of Publius
+   - Metamorphoses VIII_XV
+   - Metamorphoses I VII
+   - Fasti
+   - Amours
+   - Heroides
+   - RemediaAmoris
 
 - **notebooks/:** Jupyter notebook for data exploration (`exploration.ipynb`).
 
