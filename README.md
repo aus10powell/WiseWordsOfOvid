@@ -13,6 +13,8 @@ This repository contains code for a Twitter bot that tweets daily quotes from th
 * 2) Replies to noteable Twitter accounts
 * 3) [RAG](https://www.promptingguide.ai/techniques/rag)-based replies to @WiseWordsofOvide
 
+## Deployment
+* Github Actions and workflows deployed to Digital Ocean Droplet
 
 ### Directories and Files:
 
