@@ -74,6 +74,7 @@ SEE: [100 days of code twtter bot](https://github.com/freeCodeCamp/100DaysOfCode
 * Create a Q/A model to select an appropriate quote
    * Dual-encoder approach since I'm essentially doing this anyway for the quote retrieval.
    * Conditional Response: Intent classification then determine if responding with a quote/joke/general comment
+      * See: [Contextual Chatbots with Tensorflow](https://chatbotsmagazine.com/contextual-chat-bots-with-tensorflow-4391749d0077)
 
 ### 8. Test and Debug:
 
