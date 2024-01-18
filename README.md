@@ -17,6 +17,10 @@ This repository contains code for a Twitter bot that tweets daily quotes from th
 * 2) Replies to noteable Twitter accounts
 * 3) [RAG](https://www.promptingguide.ai/techniques/rag)-based replies to @WiseWordsofOvide
 
+### Hallucinations
+Hallucinations (at the time of this), is a catch-all that basically means the model making something up that isn't really there.
+* Interestingly, some of the hallucinations generate quotes that aren't even there but sound great. This quotes could be considered desirable as there is no infringment and represent the character of the bot: *The tongue is the instrument of the greatest good and the greatest evil that is in man.*
+
 ## Deployment
 
 
@@ -25,13 +29,12 @@ This repository contains code for a Twitter bot that tweets daily quotes from th
 - **data/:** Contains the dataset (`ovid_quotes.csv`) with Ovid's quotes in English and Latin. Full books as well:
    - Lovers Assistant
    - Last Poems
-   - Metamorphoses of Publius
-   - Metamorphoses VIII_XV
-   - Metamorphoses I VII
+   - Metamorphoses
    - Fasti
    - Amours
    - Heroides
    - RemediaAmoris
+   - The Poems of Exile (Tristia)
 
 - **notebooks/:** Jupyter notebook for data exploration (`exploration.ipynb`).
 
