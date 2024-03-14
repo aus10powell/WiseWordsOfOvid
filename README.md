@@ -22,7 +22,7 @@ Hallucinations (at the time of this), is a catch-all that basically means the mo
 * Interestingly, some of the hallucinations generate quotes that aren't even there but sound great. This quotes could be considered desirable as there is no infringment and represent the character of the bot: *The tongue is the instrument of the greatest good and the greatest evil that is in man.*
 
 ## Deployment
-
+Digital Ocean Droplets
 
 ### Directories and Files:
 
@@ -51,6 +51,10 @@ Hallucinations (at the time of this), is a catch-all that basically means the mo
 - **README.md:** Project overview and guide.
 
 - **requirements.txt:** List of project dependencies.
+
+## Stretch Goal
+~~Be able to gain enough followers/revenue to support infrastructure and lisence costs to support bot.~~ Follow-up: Does not seem feasible or even possible. See tweet by creator [@ZacksJerryRig](https://twitter.com/ZacksJerryRig/status/1759435310491144200)
+
 
 ## License
 
